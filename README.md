@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Jane</h1>
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=jane0901&theme=omni&hide=stars,issues&show_icons=true" alt="jane0901" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jane0901&theme=omni&hide=stars,issues&show_icons=true" alt="jane0901" />
 </p>
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jane0901&layout=compact&theme=omni&hide=R,Python" alt="jane0901" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jane0901&layout=compact&theme=omni&hide=R,Python" alt="jane0901" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<h3 align="center">Languages and Tools</h3>
+<p align="center">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a>
